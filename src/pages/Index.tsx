@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { MessageSquare, Globe, Shield, BarChart3, ArrowRight, Zap, Brain, Languages } from "lucide-react";
+import { MessageSquare, Globe, Shield, BarChart3, ArrowRight, Zap, Brain, Languages, BookOpen } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Navbar } from "@/components/Navbar";
 
